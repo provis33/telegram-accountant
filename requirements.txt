@@ -1,0 +1,6 @@
+aiogram>=3.4
+aiosqlite>=0.20
+pytesseract>=0.3.10
+Pillow>=10.0
+tabulate>=0.9
+python-dotenv>=1.0
